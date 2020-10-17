@@ -1,0 +1,1 @@
+To run this project copy npm to file(node_modules)
